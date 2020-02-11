@@ -1,0 +1,7 @@
+
+
+def model_history_plot(history):
+    plt.plot(history['loss'], label='loss')
+    plt.plot(history['val_loss'], label='val_loss')
+    plt.legend()
+    plt.show()
