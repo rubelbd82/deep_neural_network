@@ -1,4 +1,4 @@
-# deep_neural_network
+# Deep Neural Network
 University projects
 * Convolutional Neural Network
 * Capsule Network
